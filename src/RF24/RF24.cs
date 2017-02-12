@@ -132,7 +132,7 @@ namespace Y56380X.RF24
 			Fast,
 			Slow
 		}
-
+		
 		public enum CRC : byte
 		{
 			Disabled,
