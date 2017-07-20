@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RF24.Compatible\RF24.Compatible.csproj">
-      <Project>{95dfb941-42d0-487c-94d2-ed2efa76cd76}</Project>
-      <Name>RF24.Compatible</Name>
+    <ProjectReference Include="..\RF24\RF24.csproj">
+      <Project>{e71d52a7-e96d-4a9d-a471-436668ae741a}</Project>
+      <Name>RF24</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
