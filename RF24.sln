@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{74B997C9-CD84-4112-82D7-9FA0430775DB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RF24", "src\RF24\RF24.csproj", "{E71D52A7-E96D-4A9D-A471-436668AE741A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RF24.Compatible", "src\RF24.Compatible\RF24.Compatible.csproj", "{95DFB941-42D0-487C-94D2-ED2EFA76CD76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RF24.Examples.CheckModule.Compatible", "src\RF24.Examples.CheckModule.Compatible\RF24.Examples.CheckModule.Compatible.csproj", "{9AB08021-B049-43FA-A13F-E9791E224DF9}"
 EndProject
@@ -21,10 +19,6 @@ Global
 		{E71D52A7-E96D-4A9D-A471-436668AE741A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E71D52A7-E96D-4A9D-A471-436668AE741A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E71D52A7-E96D-4A9D-A471-436668AE741A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95DFB941-42D0-487C-94D2-ED2EFA76CD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95DFB941-42D0-487C-94D2-ED2EFA76CD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95DFB941-42D0-487C-94D2-ED2EFA76CD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95DFB941-42D0-487C-94D2-ED2EFA76CD76}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9AB08021-B049-43FA-A13F-E9791E224DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9AB08021-B049-43FA-A13F-E9791E224DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB08021-B049-43FA-A13F-E9791E224DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
