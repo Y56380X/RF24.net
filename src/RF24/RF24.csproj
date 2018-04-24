@@ -1,24 +1,22 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>netstandard1.6;net45</TargetFrameworks>
-		<Copyright>Copyright © 2017 Y56380X</Copyright>
+		<TargetFrameworks>netstandard1.6;net45;net462;net47;netstandard2.0</TargetFrameworks>
+		<Copyright>Copyright © 2017-2018 Y56380X</Copyright>
 		<PackageProjectUrl>https://github.com/Y56380X/RF24.net</PackageProjectUrl>
 		<PackageTags>RF24, nRF24</PackageTags>
 		<AssemblyName>RF24</AssemblyName>
 		<PackageId>RF24</PackageId>
-		<NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
-		<PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
 		<GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
 		<GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
 		<GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
-		<AssemblyVersion>1.1.2</AssemblyVersion>
+		<AssemblyVersion>2.0</AssemblyVersion>
 		<Authors>Y56380X</Authors>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Description>.NET and .NET Core RF24 library</Description>
 		<RootNamespace>Y56380X.RF24</RootNamespace>
-		<Version>1.1.2</Version>
-		<FileVersion>1.1.2</FileVersion>
+		<Version>2.0</Version>
+		<FileVersion>2.0</FileVersion>
 	</PropertyGroup>
 	
 </Project>
